@@ -1,2 +1,2 @@
 # SMPS
-Switchmode ower supply
+Switchmode power supply
